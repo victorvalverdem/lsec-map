@@ -1,0 +1,1 @@
+- Documentación de la estructura de los archivos disponibles en este repositorio
